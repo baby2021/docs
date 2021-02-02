@@ -49,6 +49,6 @@ The invited person will receive an invitation email asking them to become a bill
 {% data reusables.organizations.org_settings %}
 {% data reusables.organizations.billing %}
 5. Next to Billing managers, click **Add a billing manager**.
-  ![Invite billing manager](/assets/images/help/billing/settings_billing_managers_list.png)
+  ![Invite billing manager](/assets/imagesht/help/billing/settings_billing_managers_list.png)
 6. Type the username or email address of the person you want to add and click **Send invitation**.
   ![Invite billing manager page](/assets/images/help/billing/billing_manager_invite.png)
